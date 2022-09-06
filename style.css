@@ -32,6 +32,7 @@ div.indent {
     margin-left: 50px;
 }
 div.section {
+    text-align: left;
     margin-left: 70px;
 }
 div.item {
