@@ -1,4 +1,5 @@
-# my personal website
+# My Personal Webpage & Latest CV
 
-[https://stormliucong.github.io/]
+Personal page: https://stormliucong.github.io/
 
+CV: https://stormliucong.github.io/cv.html
